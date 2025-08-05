@@ -58,7 +58,7 @@
 
 ---
 
-### <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" />✨ GitHub Stats
+### <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30" /> GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=StefanyPerezBz&theme=pink&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&icon_color=FF9FEC&title_color=FF69B4" width="400"/>
@@ -70,7 +70,7 @@
 
 ---
 
-### <img src="https://slackmojis.com/emojis/78855-pepe_narutoq/download" width="30" />💖 Cita favorita
+### <img src="https://slackmojis.com/emojis/78855-pepe_narutoq/download" width="30" /> Cita favorita
 
 > <p align="center" style="color: #D35D8E; font-style: italic;">“A small step today can lead to something great tomorrow.” 🌈✨</p>
 
