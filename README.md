@@ -10,7 +10,6 @@
 <div align="center">
   <img align="right" alt="Unicorn" src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" width="200" /> 
   
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJpZ3V3dWJ5d3Z0d2R5a2V0dXJ6eGJ0dXh5dWJjZzZ6Y2Z5eGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" width="100" />
 
   <h3> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="20"> <span style="color: #FF69B4;">Sobre mí</span> </h3>
 
@@ -76,7 +75,7 @@
 > <p align="center" style="color: #D35D8E; font-style: italic;">“A small step today can lead to something great tomorrow.” 🌈✨</p>
 
 <p align="center">
-  <img src="https://media.giphy.com/media/3o7aD2d7hy9ktXNDP2/giphy.gif" width="150">
+    <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcGJpZ3V3dWJ5d3Z0d2R5a2V0dXJ6eGJ0dXh5dWJjZzZ6Y2Z5eGJ5ZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/JIX9t2j0ZTN9S/giphy.gif" width="100" />
 </p>
     
 
