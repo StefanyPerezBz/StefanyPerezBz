@@ -17,10 +17,22 @@ Estudiante de Ingeniería de Sistemas y desarrolladora web autónoma. Trabajo pr
 
 <img src="https://slackmojis.com/emojis/1972-star/download" width="20" /> **Languages and Tools**
     
-![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white) ![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white) ![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white) ![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white) ![](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
- ![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white) ![](https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=PHP&logoColor=white) ![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white) ![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS&logoColor=white) ![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white) ![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white) ![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white) ![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white) ![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
+![](https://img.shields.io/badge/Mysql-4479A1?style=flat-square&logo=MySQL&logoColor=white)
+![](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
+![](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![](https://img.shields.io/badge/Tailwindcss-06B6D4?style=flat-square&logo=Tailwind%20CSS&logoColor=white)
+![](https://img.shields.io/badge/Html5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![](https://img.shields.io/badge/Php-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white)
+![](https://img.shields.io/badge/Css-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white)
+![](https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white)
+![](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white)
+![](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white)
 
-    
+
 
 <img src="https://slackmojis.com/emojis/34950-winner/download" width="20" /> **GitHub Stats** <br/><br/> 
 ![](https://github-readme-stats.vercel.app/api?username=StefanyPerezBz&theme=react&hide_border=false&include_all_commits=true&count_private=true)<br/>
