@@ -15,7 +15,7 @@
 
   <p style="color: #D35D8E;">
     ¡Hola! Soy una estudiante de <b>Ingeniería de Sistemas</b> 👩‍💻 apasionada por el desarrollo web, el diseño UI/UX y proyectos con impacto social 💖. <br>
-    Actualmente trabajo con <b>Laravel, Livewire, Tailwind CSS</b> y explorando <b>Spring Boot</b> 🌱. <br>
+    Actualmente trabajo con <b>Laravel</b> y explorando <b>Spring Boot</b> 🌱. <br>
     ¡Me encanta crear cosas lindas, funcionales y seguir aprendiendo cada día! ✨
   </p>
 </div>
