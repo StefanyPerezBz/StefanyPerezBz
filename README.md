@@ -1,72 +1,74 @@
-<h1 align="center">✨ Hola, soy <b>Stefany Pérez</b> ✨
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="32" alt="saludo">
+<p align="center">
+  <img src="https://i.ibb.co/Yt9sXvG/banner-github-stefany.png" alt="Banner Stefany Pérez" width="100%">
+</p>
+
+<h1 align="center">
+  <img src="https://slackmojis.com/emojis/13387-gokurun/download" width="35">
+  <b>Hello Hello! I'm Stefany Pérez 💻</b>
 </h1>
 
-<p align="center">
-  <img 
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1200&color=FF69B4&center=true&vCenter=true&width=520&lines=Desarrolladora+Web+%F0%9F%92%BB;UI%2FUX+Enthusiast+%F0%9F%8E%A8;Cat+Lover+%F0%9F%90%88;Siempre+aprendiendo+%F0%9F%93%9A" 
-    alt="Typing intro"
-  />
-</p>
+<div align="center">
+  <img alt="pikachu" src="https://media.tenor.com/rbx3ph5SLRUAAAAi/pikachu-pokemon.gif" width="150"/>
+</div>
+
+---
+
+## <img src="https://slackmojis.com/emojis/10254-pepe_naruto/download" width="25"> <b>About Me</b>
+
+🎓 Estudiante de **Ingeniería de Sistemas** en la **Universidad Nacional de Trujillo**, apasionada por el diseño **UX/UI** y en formación como **Desarrolladora Full Stack**.  
+💡 Me caracterizo por mi **pensamiento analítico**, **liderazgo** y **trabajo en equipo**, cualidades que me permiten adaptarme con facilidad y aportar valor a proyectos tecnológicos con una visión integral y orientada a resultados.  
+🌱 Siempre en constante aprendizaje y perfeccionando mis habilidades técnicas y creativas.
+
+---
+
+## <img src="https://slackmojis.com/emojis/37554-charmander/download" width="30"> <b>Socials</b>
 
 <p align="center">
-  <em>Estudiante de <b>Ingeniería de Sistemas</b> con foco en Frontend y Diseño de Interfaces. Me encanta crear experiencias lindas, funcionales y accesibles.</em>
+  <a href="https://github.com/StefanyPerezBz">
+    <img src="https://img.shields.io/badge/Github-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/stefany-pérez">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
 </p>
 
-<hr/>
+---
 
-<!-- Sobre mí -->
-<h3 align="center">💗 Sobre mí</h3>
-<p align="center">
-  • Actualmente trabajo con <b>Laravel</b> y explorando <b>Spring Boot</b> 🌱<br/>
-  • Me apasiona el <b>diseño UI/UX</b> y convertir ideas en prototipos funcionales ✨<br/>
-  • Team café, gatos y commits chiquitos pero constantes ☕🐱
-</p>
+## <img src="https://slackmojis.com/emojis/76421-anime_itachiakatsuki/download" width="30"> <b>Tech Stack</b>
 
-<!-- Stack -->
-<h3 align="center">🧰 Mi stack</h3>
+<div align="center">
 
-<p align="center">
-  <!-- Lenguajes -->
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP"/>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=3776AB" alt="Python"/>
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"/>
-</p>
+![Javascript](https://img.shields.io/badge/Javascript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=black)
+![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=CSS3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=Bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat-square&logo=Tailwind-CSS&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=Figma&logoColor=white)
+![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=PHP&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=Laravel&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white)
 
-<p align="center">
-  <!-- Frontend -->
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"/>
-  <img src="https://img.shields.io/badge/Bootstrap-6f2cf4?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap"/>
-  <img src="https://img.shields.io/badge/Tailwind-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React"/>
-</p>
+</div>
 
-<p align="center">
-  <!-- Backend/Frameworks -->
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel"/>
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java"/>
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" alt="Spring"/>
-</p>
+---
 
-<p align="center">
-  <!-- Bases de datos -->
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
-  <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-</p>
+## <img src="https://slackmojis.com/emojis/81036-anime_sailor/download" width="30"> <b>GitHub Activity</b>
 
-<p align="center">
-  <!-- Herramientas -->
-  <img src="https://img.shields.io/badge/Git-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-  <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white" alt="Figma"/>
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman"/>
-</p>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/StefanyPerezBz/StefanyPerezBz/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/StefanyPerezBz/StefanyPerezBz/output/pacman-contribution-graph.svg">
+  <img alt="Pacman contribution graph" src="https://raw.githubusercontent.com/StefanyPerezBz/StefanyPerezBz/output/pacman-contribution-graph.svg">
+</picture>
 
-<!-- Fun GIF opcional -->
-<p align="center">
-  <img src="https://media.tenor.com/EdiGYFaZg7sAAAAi/jaded-disappointed.gif" width="160" alt="gif cute"/>
-</p>
+---
 
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Kiran1689/kiran1689/main/Skills_Animation_Dark.gif" width="400" alt="skills animation">
+</div>
 
-<!-- Proudly created with Github Readme Maker ( https://github-readme-maker-pi.vercel.app/ ) -->
+---
+
+✨ *“Code with purpose, design with passion.”* 💫
+
