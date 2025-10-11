@@ -12,7 +12,7 @@
 <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="30" height="30" /> Cada día es una nueva oportunidad para aprender algo nuevo.</li>
 <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Raising%20Hand.png" alt="Woman Raising Hand" width="30" height="30" /> Me caracterizo por mi compromiso, adaptabilidad y actitud positiva frente a los desafíos.</li>
 <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> Aspiro a formar parte de proyectos donde pueda seguir aprendiendo y aportar con dedicación y creatividad.</li>
-<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30" /> Creo que la mejor manera de avanzar es compartir conocimiento y mantener la curiosidad viv</li>
+<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Sparkles.png" alt="Sparkles" width="30" height="30" /> Creo que la mejor manera de avanzar es compartir conocimiento y mantener la curiosidad viva</li>
 </ul>
 
 <hr>
