@@ -8,7 +8,7 @@
 <p align="left">Soy Desarrolladora Full Stack Junior con pasión por crear experiencias digitales que combinan funcionalidad, diseño y tecnología. Disfruto aprender, experimentar y construir soluciones que aporten valor y hagan más fácil la vida de las personas. </p>
 
 <ul>
-<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="30" height="30" /> Estudiante del X ciclo de la carrera de Ingeniería de Sistemas en la Universidad Nacional de Trujillo. </li>
+<li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Open%20Book.png" alt="Open Book" width="30" height="30" /> Egresada de la carrera de Ingeniería de Sistemas en la Universidad Nacional de Trujillo. </li>
 <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Smiling%20Face.png" alt="Smiling Face" width="30" height="30" /> Cada día es una nueva oportunidad para aprender algo nuevo.</li>
 <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Woman%20Raising%20Hand.png" alt="Woman Raising Hand" width="30" height="30" /> Me caracterizo por mi compromiso, adaptabilidad y actitud positiva frente a los desafíos.</li>
 <li><img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Activities/Bullseye.png" alt="Bullseye" width="30" height="30" /> Aspiro a formar parte de proyectos donde pueda seguir aprendiendo y aportar con dedicación y creatividad.</li>
